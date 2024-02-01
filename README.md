@@ -1,8 +1,10 @@
 # Sahayata App
 
 ## Video
-
+### single device
 https://github.com/tanmaysuryawanshi/sahayata/assets/93265845/de47b3cb-f199-435f-ac96-f16035c48346
+
+### two devices
 https://github.com/tanmaysuryawanshi/sahayata/assets/93265845/c6edfd02-ae88-4d9e-afb5-5731249e9223
 
 
